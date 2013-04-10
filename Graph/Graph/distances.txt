@@ -1,0 +1,3 @@
+Malmo Stockholm 700
+Stockholm Gothenburg 410
+Gothenburg Malmo 350

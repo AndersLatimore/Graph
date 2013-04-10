@@ -1,0 +1,1 @@
+This program was created as a school project. It is entirely open source. Anyone who wishes to use the code in its entirety or in parts, is free to do so.
